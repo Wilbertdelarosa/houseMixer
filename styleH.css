@@ -1,0 +1,21 @@
+h1{
+    font-size: 3rem;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    color: azure;
+}
+
+
+.left-side, .right-side {
+    height: 100vh;
+    width: 100%;
+}
+
+.left-side{
+    background-color: #283149;
+    text-align: center;
+}
+
+.right-side{
+    background-color: azure;
+}
